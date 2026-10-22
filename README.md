@@ -2,6 +2,8 @@
 
 **Open source, made approachable.**
 
+Live Demo:https://reposathi.onrender.com/
+
 RepoSathi AI helps new contributors understand a project, identify a realistic first contribution, and turn that idea into a practical action plan. It uses a locally running Gemma model through Ollama.
 
 ## Graphify
