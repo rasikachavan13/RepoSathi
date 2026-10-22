@@ -4,6 +4,11 @@
 
 RepoSathi AI helps new contributors understand a project, identify a realistic first contribution, and turn that idea into a practical action plan. It uses a locally running Gemma model through Ollama.
 
+## Graphify
+
+<img width="1557" height="860" alt="image" src="https://github.com/user-attachments/assets/aafaca2f-201e-44b8-aaea-ed49c56d4822" />
+
+
 ## Features
 
 - Paste a README, issue description, or code snippet.
