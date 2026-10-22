@@ -46,7 +46,7 @@ app.use((err, _req, res, _next) => {
   return res.status(500).json({ error: 'Unexpected server error.' });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`RepoSathi AI backend running at http://localhost:${PORT}`);
   console.log(`Allowed frontend origin: ${allowedOrigin}`);
   console.log(`Configured Ollama model: ${process.env.GEMMA_MODEL || 'gemma3:4b'}`);
